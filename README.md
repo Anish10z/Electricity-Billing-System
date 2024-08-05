@@ -18,12 +18,72 @@ The Electricity Billing System is a Java-based application designed to manage el
 - **Upadte Details**: User can update their personal details except the name and the allocated meter number.
 - **Utility Tools**: Utilty tools like calculator and notebooks are added in both admin and customer pannel for convenience.
 ## Screenshots
- <p>
-  **Login Interface**
-<img src="Screenshot/Login.png" alt="Login.jpg" width="600" height="350" >
- **Admin Interface**
-<img src="Screenshot/Login.png" alt="Login.jpg" width="600" height="350" >
- <p>
+ ### Login Page
+<img src="Screenshot/loginpage.png"
+alt="Home Screen"
+style="float: left; margin-right: 100px;"
+width="400"/> 
+### Admin & Consumers Signup Page
+<img src="Screenshot/admin_signup.png"
+alt="Home Screen"
+style="float: left; margin-right: 100px;"
+width="400"/> 
+<img src="Screenshot/user_signup.png"
+alt="Home Screen"
+style="float: left; margin-right: 100px;"
+width="400"/> 
+### Admin Pannel
+<img src="Screenshot/Admin pannel.png"
+alt="Home Screen"
+style="float: left; margin-right: 100px;"
+width="600"/> 
+### New User Add
+<img src="Screenshot/newcus_signup1.png"
+alt="Home Screen"
+style="float: left; margin-right: 100px;"
+width="400"/> 
+<img src="Screenshot/newcus_signup2.png"
+alt="Home Screen"
+style="float: left; margin-right: 100px;"
+width="400"/>
+### All Consumers Details
+<img src="Screenshot/adm_cusdetails.png"
+alt="Home Screen"
+style="float: left; margin-right: 100px;"
+width="500"/> 
+### Bill Calculation & Bill Status
+<img src="Screenshot/bill_calc.png"
+alt="Home Screen"
+style="float: left; margin-right: 100px;"
+width="400"/> 
+<img src="Screenshot/cons_bill_details.png"
+alt="Home Screen"
+style="float: left; margin-right: 100px;"
+width="600"/>
+### User Pannel
+<img src="Screenshot/User Pannel.png"
+alt="Home Screen"
+style="float: left; margin-right: 100px;"
+width="600"/>
+### Bill Generation & Bill Payment
+<img src="Screenshot/Bill_gen.png"
+alt="Home Screen"
+style="float: left; margin-right: 100px;"
+width="250" height="350"/> 
+<img src="Screenshot/bill_pay.png"
+alt="Home Screen"
+style="float: left; margin-right: 100px;"
+width="500"/>
+### Personal Details & Update Details
+<img src="Screenshot/user_details.png"
+alt="Home Screen"
+style="float: left; margin-right: 100px;"
+width="400"/> 
+<img src="Screenshot/user_details_update.png"
+alt="Home Screen"
+style="float: left; margin-right: 100px;"
+width="400"/>
+
 
 ## Prerequisites
 
